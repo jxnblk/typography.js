@@ -8,7 +8,6 @@ import Client from './client'
 import defaults from './defaults'
 import type { OptionsType } from "Types"
 
-
 const server = function (opts: OptionsType) {
   const options = { ...defaults, ...opts }
   const result = Client(options)

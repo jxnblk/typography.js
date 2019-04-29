@@ -46,6 +46,11 @@ describe("typography(options?).toJSON()", () => {
   it("should return CSS as JSON", () => {
     expect(typography().toJSON()).toMatchSnapshot()
   })
+
+  it('should return style object for components', () => {
+    const result = typography({ output: 'components' }).toJSON()
+    expect(result).toMatchSnapshot()
+  })
 })
 
 describe("typography(options?).toString()", () => {

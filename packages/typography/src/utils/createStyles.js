@@ -52,7 +52,7 @@ const elementNames = {
     root: 'html',
     body: 'body',
   },
-  component: {
+  components: {
     root: 'root',
     body: 'root',
   }
@@ -74,9 +74,11 @@ export default (vr: any, options: OptionsType) => {
   })
 
   // box-sizing reset.
-  styles = setStyles(styles, ["*", "*:before", "*:after"], {
-    boxSizing: "inherit",
-  })
+  if (output === 'css') {
+    styles = setStyles(styles, ["*", "*:before", "*:after"], {
+      boxSizing: "inherit",
+    })
+  }
 
   // Base body styles.
   styles = setStyles(styles, elements.body, {
