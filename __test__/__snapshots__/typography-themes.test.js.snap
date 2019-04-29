@@ -396,7 +396,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -409,7 +409,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.725rem - 1px)",
+    "paddingLeft": "0.96667rem",
+    "paddingRight": "0.96667rem",
+    "paddingTop": "0.725rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -810,7 +820,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -823,7 +833,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.75rem - 1px)",
+    "paddingLeft": "1rem",
+    "paddingRight": "1rem",
+    "paddingTop": "0.75rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -1246,7 +1266,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -1259,7 +1279,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.725rem - 1px)",
+    "paddingLeft": "0.96667rem",
+    "paddingRight": "0.96667rem",
+    "paddingTop": "0.725rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -1689,7 +1719,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -1702,7 +1732,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.725rem - 1px)",
+    "paddingLeft": "0.96667rem",
+    "paddingRight": "0.96667rem",
+    "paddingTop": "0.725rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -2135,7 +2175,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -2148,7 +2188,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.75rem - 1px)",
+    "paddingLeft": "1rem",
+    "paddingRight": "1rem",
+    "paddingTop": "0.75rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -2582,7 +2632,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -2595,7 +2645,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.725rem - 1px)",
+    "paddingLeft": "0.96667rem",
+    "paddingRight": "0.96667rem",
+    "paddingTop": "0.725rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -3002,7 +3062,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -3015,7 +3075,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.7rem - 1px)",
+    "paddingLeft": "0.93333rem",
+    "paddingRight": "0.93333rem",
+    "paddingTop": "0.7rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -3424,7 +3494,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -3437,7 +3507,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 600,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.8125rem - 1px)",
+    "paddingLeft": "1.08333rem",
+    "paddingRight": "1.08333rem",
+    "paddingTop": "0.8125rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -3858,7 +3938,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -3871,7 +3951,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.84375rem - 1px)",
+    "paddingLeft": "1.125rem",
+    "paddingRight": "1.125rem",
+    "paddingTop": "0.84375rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -4279,7 +4369,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -4292,7 +4382,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.69rem - 1px)",
+    "paddingLeft": "0.92rem",
+    "paddingRight": "0.92rem",
+    "paddingTop": "0.69rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -4719,7 +4819,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -4732,7 +4832,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.83333rem - 1px)",
+    "paddingLeft": "1.11111rem",
+    "paddingRight": "1.11111rem",
+    "paddingTop": "0.83333rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -5148,7 +5258,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -5161,7 +5271,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.72rem - 1px)",
+    "paddingLeft": "0.96rem",
+    "paddingRight": "0.96rem",
+    "paddingTop": "0.72rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -5565,7 +5685,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -5578,7 +5698,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.75rem - 1px)",
+    "paddingLeft": "1rem",
+    "paddingRight": "1rem",
+    "paddingTop": "0.75rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -5966,7 +6096,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -5979,7 +6109,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 500,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.7rem - 1px)",
+    "paddingLeft": "0.93333rem",
+    "paddingRight": "0.93333rem",
+    "paddingTop": "0.7rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -6417,7 +6557,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -6430,7 +6570,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.79rem - 1px)",
+    "paddingLeft": "1.05333rem",
+    "paddingRight": "1.05333rem",
+    "paddingTop": "0.79rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -6849,7 +6999,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -6862,7 +7012,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.78rem - 1px)",
+    "paddingLeft": "1.04rem",
+    "paddingRight": "1.04rem",
+    "paddingTop": "0.78rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -7250,7 +7410,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -7263,7 +7423,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.805rem - 1px)",
+    "paddingLeft": "1.07333rem",
+    "paddingRight": "1.07333rem",
+    "paddingTop": "0.805rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -7700,7 +7870,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -7713,7 +7883,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.79rem - 1px)",
+    "paddingLeft": "1.05333rem",
+    "paddingRight": "1.05333rem",
+    "paddingTop": "0.79rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -8144,7 +8324,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -8157,7 +8337,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.91rem - 1px)",
+    "paddingLeft": "1.21333rem",
+    "paddingRight": "1.21333rem",
+    "paddingTop": "0.91rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -8581,7 +8771,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -8594,7 +8784,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.78125rem - 1px)",
+    "paddingLeft": "1.04167rem",
+    "paddingRight": "1.04167rem",
+    "paddingTop": "0.78125rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -8982,7 +9182,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -8995,7 +9195,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 400,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.8rem - 1px)",
+    "paddingLeft": "1.06667rem",
+    "paddingRight": "1.06667rem",
+    "paddingTop": "0.8rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -9422,7 +9632,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -9435,7 +9645,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.83333rem - 1px)",
+    "paddingLeft": "1.11111rem",
+    "paddingRight": "1.11111rem",
+    "paddingTop": "0.83333rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -9860,7 +10080,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -9873,7 +10093,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.861rem - 1px)",
+    "paddingLeft": "1.148rem",
+    "paddingRight": "1.148rem",
+    "paddingTop": "0.861rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -10306,7 +10536,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -10319,7 +10549,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.89rem - 1px)",
+    "paddingLeft": "1.18667rem",
+    "paddingRight": "1.18667rem",
+    "paddingTop": "0.89rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -10761,7 +11001,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -10774,7 +11014,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 600,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.75rem - 1px)",
+    "paddingLeft": "1rem",
+    "paddingRight": "1rem",
+    "paddingTop": "0.75rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -11186,7 +11436,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -11199,7 +11449,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.765rem - 1px)",
+    "paddingLeft": "1.02rem",
+    "paddingRight": "1.02rem",
+    "paddingTop": "0.765rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -11616,7 +11876,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -11629,7 +11889,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.785rem - 1px)",
+    "paddingLeft": "1.04667rem",
+    "paddingRight": "1.04667rem",
+    "paddingTop": "0.785rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -12034,7 +12304,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -12047,7 +12317,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.75rem - 1px)",
+    "paddingLeft": "1rem",
+    "paddingRight": "1rem",
+    "paddingTop": "0.75rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -12452,7 +12732,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -12465,7 +12745,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.8rem - 1px)",
+    "paddingLeft": "1.06667rem",
+    "paddingRight": "1.06667rem",
+    "paddingTop": "0.8rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -12873,7 +13163,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -12886,8 +13176,18 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
     "color": "hsla(0,0%,0%,0.61)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.857rem - 1px)",
+    "paddingLeft": "1.14267rem",
+    "paddingRight": "1.14267rem",
+    "paddingTop": "0.857rem",
+    "textAlign": "left",
     "textTransform": "uppercase",
   },
   "th:first-child,td:first-child": Object {
@@ -13309,7 +13609,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -13322,7 +13622,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.75rem - 1px)",
+    "paddingLeft": "1rem",
+    "paddingRight": "1rem",
+    "paddingTop": "0.75rem",
+    "textAlign": "left",
     "textTransform": "uppercase",
   },
   "th:first-child,td:first-child": Object {
@@ -13737,7 +14047,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -13750,7 +14060,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 600,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.75rem - 1px)",
+    "paddingLeft": "1rem",
+    "paddingRight": "1rem",
+    "paddingTop": "0.75rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -14179,7 +14499,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -14192,7 +14512,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.84rem - 1px)",
+    "paddingLeft": "1.12rem",
+    "paddingRight": "1.12rem",
+    "paddingTop": "0.84rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -14631,7 +14961,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -14644,7 +14974,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": 700,
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.875rem - 1px)",
+    "paddingLeft": "1.16667rem",
+    "paddingRight": "1.16667rem",
+    "paddingTop": "0.875rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -15051,7 +15391,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -15064,7 +15404,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.7rem - 1px)",
+    "paddingLeft": "0.93333rem",
+    "paddingRight": "0.93333rem",
+    "paddingTop": "0.7rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,

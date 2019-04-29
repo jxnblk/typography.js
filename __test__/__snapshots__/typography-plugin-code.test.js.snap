@@ -375,7 +375,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -388,7 +388,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.725rem - 1px)",
+    "paddingLeft": "0.96667rem",
+    "paddingRight": "0.96667rem",
+    "paddingTop": "0.725rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -800,7 +810,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -813,7 +823,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.725rem - 1px)",
+    "paddingLeft": "0.96667rem",
+    "paddingRight": "0.96667rem",
+    "paddingTop": "0.725rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,
@@ -1225,7 +1245,7 @@ Object {
     "paddingTop": 0,
     "width": "100%",
   },
-  "td,th": Object {
+  "td": Object {
     "MozFontFeatureSettings": "\\"tnum\\"",
     "WebkitFontFeatureSettings": "\\"tnum\\"",
     "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
@@ -1238,7 +1258,17 @@ Object {
     "textAlign": "left",
   },
   "th": Object {
+    "MozFontFeatureSettings": "\\"tnum\\"",
+    "WebkitFontFeatureSettings": "\\"tnum\\"",
+    "borderBottom": "1px solid hsla(0,0%,0%,0.12)",
+    "fontFeatureSettings": "\\"tnum\\"",
     "fontWeight": "bold",
+    "msFontFeatureSettings": "\\"tnum\\"",
+    "paddingBottom": "calc(0.725rem - 1px)",
+    "paddingLeft": "0.96667rem",
+    "paddingRight": "0.96667rem",
+    "paddingTop": "0.725rem",
+    "textAlign": "left",
   },
   "th:first-child,td:first-child": Object {
     "paddingLeft": 0,

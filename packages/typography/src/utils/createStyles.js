@@ -47,13 +47,25 @@ const wrapFontFamily = fontFamily =>
     ? fontFamily
     : `'${fontFamily}'`
 
+const elementNames = {
+  css: {
+    root: 'html',
+    body: 'body',
+  },
+  component: {
+    root: 'root',
+    body: 'root',
+  }
+}
+
 export default (vr: any, options: OptionsType) => {
   let styles = {}
   const { fontSize, lineHeight } = vr.establishBaseline()
   const { output } = options
+  const elements = elementNames[output] || elementNames.css
 
   // Base HTML styles.
-  styles = setStyles(styles, "html", {
+  styles = setStyles(styles, elements.root, {
     fontSize: fontSize,
     lineHeight: lineHeight,
     fontFamily: options.bodyFontFamily.map(wrapFontFamily).join(','),
@@ -67,7 +79,7 @@ export default (vr: any, options: OptionsType) => {
   })
 
   // Base body styles.
-  styles = setStyles(styles, "body", {
+  styles = setStyles(styles, elements.body, {
     color: options.bodyColor,
     fontFamily: options.bodyFontFamily.map(wrapFontFamily).join(","),
     fontWeight: options.bodyWeight,
@@ -167,32 +179,70 @@ export default (vr: any, options: OptionsType) => {
   })
 
   // Remove default padding on list items.
-  styles = setStyles(styles, ["ol li", "ul li"], {
-    paddingLeft: 0,
-  })
+  if (output === 'css') {
+    styles = setStyles(styles, ["ol li", "ul li"], {
+      paddingLeft: 0,
+    })
+  } else {
+    styles = setStyles(styles, ["ol", "ul"], {
+      li: {
+        paddingLeft: 0,
+      }
+    })
+  }
 
   // children ol, ul.
-  styles = setStyles(styles, ["li > ol", "li > ul"], {
-    marginLeft: vr.rhythm(1),
-    marginBottom: `calc(${blockMarginBottom} / 2)`,
-    marginTop: `calc(${blockMarginBottom} / 2)`,
-  })
+  if (output === 'css') {
+    styles = setStyles(styles, ["li > ol", "li > ul"], {
+      marginLeft: vr.rhythm(1),
+      marginBottom: `calc(${blockMarginBottom} / 2)`,
+      marginTop: `calc(${blockMarginBottom} / 2)`,
+    })
+  } else {
+    styles = setStyles(styles, ["li"], {
+      '& > ol, & > ul': {
+        marginLeft: vr.rhythm(1),
+        marginBottom: `calc(${blockMarginBottom} / 2)`,
+        marginTop: `calc(${blockMarginBottom} / 2)`,
+      }
+    })
+  }
 
   // Remove margin-bottom on the last-child of a few block elements
   // The worst offender of this seems to be markdown => html compilers
   // as they put paragraphs within LIs amoung other oddities.
-  styles = setStyles(
-    styles,
-    ["blockquote *:last-child", "li *:last-child", "p *:last-child"],
-    {
-      marginBottom: 0,
-    }
-  )
+  if (output === 'css') {
+    styles = setStyles(
+      styles,
+      ["blockquote *:last-child", "li *:last-child", "p *:last-child"],
+      {
+        marginBottom: 0,
+      }
+    )
+  } else {
+    styles = setStyles(
+      styles,
+      ["blockquote", "li", "p"],
+      {
+        '*:last-child': {
+          marginBottom: 0,
+        }
+      }
+    )
+  }
 
   // Ensure li > p is 1/2 margin — this is another markdown => compiler oddity.
-  styles = setStyles(styles, ["li > p"], {
-    marginBottom: `calc(${blockMarginBottom} / 2)`,
-  })
+  if (output === 'css') {
+    styles = setStyles(styles, ["li > p"], {
+      marginBottom: `calc(${blockMarginBottom} / 2)`,
+    })
+  } else {
+    styles = setStyles(styles, ["li"], {
+      '& > p': {
+        marginBottom: `calc(${blockMarginBottom} / 2)`,
+      }
+    })
+  }
 
   // Make generally smaller elements, smaller.
   styles = setStyles(styles, ["code", "kbd", "pre", "samp"], {
@@ -219,7 +269,7 @@ export default (vr: any, options: OptionsType) => {
   styles = setStyles(styles, ["thead"], {
     textAlign: "left",
   })
-  styles = setStyles(styles, ["td,th"], {
+  styles = setStyles(styles, ["td", "th"], {
     textAlign: "left",
     borderBottom: `1px solid ${gray(88)}`,
     fontFeatureSettings: '"tnum"',
@@ -231,12 +281,24 @@ export default (vr: any, options: OptionsType) => {
     paddingTop: vr.rhythm(1 / 2),
     paddingBottom: `calc(${vr.rhythm(1 / 2)} - 1px)`,
   })
-  styles = setStyles(styles, "th:first-child,td:first-child", {
-    paddingLeft: 0,
-  })
-  styles = setStyles(styles, "th:last-child,td:last-child", {
-    paddingRight: 0,
-  })
+
+  if (output === 'css') {
+    styles = setStyles(styles, [ "th:first-child,td:first-child" ], {
+      paddingLeft: 0,
+    })
+    styles = setStyles(styles, [ "th:last-child,td:last-child" ], {
+      paddingRight: 0,
+    })
+  } else {
+    styles = setStyles(styles, [ "th", "td" ], {
+      ':first-child': {
+        paddingLeft: 0,
+      },
+      ':last-child': {
+        paddingRight: 0,
+      }
+    })
+  }
 
   // Create styles for headers.
   styles = setStyles(styles, ["h1", "h2", "h3", "h4", "h5", "h6"], {
