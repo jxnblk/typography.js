@@ -50,12 +50,13 @@ const wrapFontFamily = fontFamily =>
 export default (vr: any, options: OptionsType) => {
   let styles = {}
   const { fontSize, lineHeight } = vr.establishBaseline()
+  const { output } = options
 
   // Base HTML styles.
   styles = setStyles(styles, "html", {
-    font: `${fontSize}/${lineHeight} ${options.bodyFontFamily
-      .map(wrapFontFamily)
-      .join(",")}`,
+    fontSize: fontSize,
+    lineHeight: lineHeight,
+    fontFamily: options.bodyFontFamily.map(wrapFontFamily).join(','),
     boxSizing: "border-box",
     overflowY: "scroll",
   })

@@ -243,7 +243,9 @@ Object {
   },
   "html": Object {
     "boxSizing": "border-box",
-    "font": "100%/1.45 'georgia',serif",
+    "fontFamily": "'georgia',serif",
+    "fontSize": "100%",
+    "lineHeight": "1.45",
     "overflowY": "scroll",
   },
   "iframe": Object {
@@ -666,7 +668,9 @@ Object {
   },
   "html": Object {
     "boxSizing": "border-box",
-    "font": "100%/1.45 'georgia',serif",
+    "fontFamily": "'georgia',serif",
+    "fontSize": "100%",
+    "lineHeight": "1.45",
     "overflowY": "scroll",
   },
   "iframe": Object {
@@ -1089,7 +1093,9 @@ Object {
   },
   "html": Object {
     "boxSizing": "border-box",
-    "font": "100%/1.45 'georgia',serif",
+    "fontFamily": "'georgia',serif",
+    "fontSize": "100%",
+    "lineHeight": "1.45",
     "overflowY": "scroll",
   },
   "iframe": Object {
